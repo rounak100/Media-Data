@@ -1,0 +1,93 @@
+body{
+    background-color: lightblue;
+}
+.anime {
+    margin:auto;
+    width:150px;
+    height:20px
+
+}
+.lastname {
+    width:150px; height:20px
+}
+.want{
+    width:300px;
+    height:300px;
+}
+.info{
+    background-color: white;
+    resize:none;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px black;
+    padding: 1px;
+}
+.lisa{
+    width: 805px;
+    height:22px;
+}
+h1 {
+    text-indent: 17em;
+}
+h2{
+    text-indent: 11.2em;
+    color: black;
+}
+.types{
+    text-indent: 16.9em;
+}
+.select{
+    text-indent: 16.9em;
+}
+
+.episodecount{
+    width: 70px;
+}
+.count{
+    text-align: center;
+}
+.score{
+    display:inline;
+    width:100px;
+}
+.sumbit{
+    width:70px;
+    height:30px;
+    font-size: large;
+    color: black;
+}
+.login{
+    text-indent: 16.9em;
+    text-align-all: center;
+}
+.title{
+    text-align: center;
+}
+.top{
+    text-align: center;
+}
+.enterlogin{
+    width: 70px;
+    height:25px;
+    font-size: medium;
+    color: rebeccapurple;
+}
+table, td,th,tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: black;
+    background-color: white;
+}
+
+td{
+    text-align:left;
+}
+TABLE{
+    width:100%;
+    table-layout: fixed;
+}
+.record{
+    background-color: darkmagenta;
+}
